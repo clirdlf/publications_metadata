@@ -24,16 +24,15 @@ def find_redirect(uri)
 end
 
 def find_isbn(string)
-  (/ISBN\x20\d{1,5}([- ])\d{1,7}\1\d{1,6}\1(\d{1,6}|X)(\1\d)?/).match(string.to_s)
+  /ISBN\x20\d{1,5}([- ])\d{1,7}\1\d{1,6}\1(\d{1,6}|X)(\1\d)?/.match(string.to_s)
 end
 
 def main
-
   file = 'output.csv'
 
   CSV.open(file, 'w') do |writer|
     # Add the header
-    writer << ['title', 'isbn', 'date_start_full_text_coverage', 'date_end_full_text_coverage', 'title_url']
+    writer << %w(title isbn date_start_full_text_coverage date_end_full_text_coverage title_url)
 
     @doc.css('p').each do |record|
       pub_id = record.css('.pub').text
@@ -42,17 +41,16 @@ def main
 
       title = record.css('a').text
       author = record.css('i').text
-      date = (/(January|February|March|April|May|June|July|August|September|October|November|December) \d{4}/).match(record.text)
+      date = /(January|February|March|April|May|June|July|August|September|October|November|December) \d{4}/.match(record.text)
 
       # find the ISBN
       abstract_page = Nokogiri::HTML(open(abstract_url))
       abstract_content = abstract_page.css('#content-core')
       isbn = find_isbn(abstract_content)
       line = "#{pub_id} | #{isbn} | #{title} | #{author} | #{date} | #{abstract_url}\n"
-      writer << [title, isbn, "1992", "2015", abstract_url]
+      writer << [title, isbn, '1992', '2015', abstract_url]
       puts line
     end
-
   end
   puts "Finished writing. Everything is in #{file}"
 end
