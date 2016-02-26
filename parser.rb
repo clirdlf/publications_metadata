@@ -3,10 +3,13 @@
 require 'open-uri'
 require 'net/http'
 require 'csv'
+require 'time'
 
 require 'nokogiri'
+require 'chronic'
 
 BASE_URL = 'http://www.clir.org/pubs/reports'.freeze
+PUBLISHER = 'Council on Library and Information Resources'.freeze
 
 @doc = File.open('snippet.html') { |f| Nokogiri::HTML(f) }
 
@@ -27,28 +30,44 @@ def find_isbn(string)
   /ISBN\x20\d{1,5}([- ])\d{1,7}\1\d{1,6}\1(\d{1,6}|X)(\1\d)?/.match(string.to_s)
 end
 
+def add_header(writer)
+  writer << %w(
+    title_id
+    publication_title
+    print_identifier
+    first_editor
+    date_monograph_published_online
+    date_monograph_published_print
+    title_url
+  )
+end
+
 def main
-  file = 'output.csv'
+  filedate = Time.now.strftime('%Y-%m-%d')
+  file = "CLIR_Global_AllTitles_#{filedate}.csv"
 
   CSV.open(file, 'w') do |writer|
     # Add the header
-    writer << %w(title isbn date_start_full_text_coverage date_end_full_text_coverage title_url)
+    add_header(writer)
 
     @doc.css('p').each do |record|
-      pub_id = record.css('.pub').text
+      title_id = record.css('.pub').text
 
       abstract_url = find_redirect record.css('a/@href')
 
       title = record.css('a').text
-      author = record.css('i').text
+      editors = record.css('i, em').text.gsub(/, editor/,'').gsub(/by /, '')
+      first_editor = editors.split(/(and|,)/).first
+
       date = /(January|February|March|April|May|June|July|August|September|October|November|December) \d{4}/.match(record.text)
+      formatted_date = Chronic.parse(date).strftime('%Y-%m')
 
       # find the ISBN
       abstract_page = Nokogiri::HTML(open(abstract_url))
       abstract_content = abstract_page.css('#content-core')
-      isbn = find_isbn(abstract_content)
-      line = "#{pub_id} | #{isbn} | #{title} | #{author} | #{date} | #{abstract_url}\n"
-      writer << [title, isbn, '1992', '2015', abstract_url]
+      isbn = find_isbn(abstract_content).to_s.gsub(/ISBN /, '')
+      line = "#{title_id} | #{title} | #{isbn} | #{first_editor} | #{formatted_date} | #{date} | #{abstract_url}\n"
+      writer << [title_id, title, isbn, first_editor, formatted_date, formatted_date, abstract_url]
       puts line
     end
   end
