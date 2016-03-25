@@ -1,0 +1,151 @@
+pub169 Innovation, Collaboration, and Models, Cheryl Oestreicher, editor. November 2015.
+pub168 Building Expertise to Support Digital Scholarship: A Global Perspective by Vivian Lewis, Lisa Spiro, Xuemao Wang, and Jon E. Cawthorne. October 2015.
+pub167 The Process of Discovery: The CLIR Postdoctoral Fellowship Program and the Future of the Academy, John C. Maclachlan, Elizabeth A. Waraksa, and Christa Williford, editors. September 2015.
+pub166 The Once and Future Publishing Library by Ann Okerson and Alex Holzman. July 2015.
+pub165 Getting Found: SEO Cookbook by Patrick O’Brien and Kenning Arlitsch. May 2015.
+pub164 ARSC Guide to Audio Preservation, Sam Brylawski, Maya Lerman, Robin Pike, Kathlin Smith, editors. May 2015.
+pub163 The Center of Excellence Model for Information Services by Joy Kirchner, José Diaz, Geneva Henry, Susan Fliss, John Culshaw, Heather Gendron, and Jon E. Cawthorne. February 2015.
+pub162 The Changing Landscape of Library and Information Services: What Presidents, Provosts, and Finance Officers Need to Know by Richard Holmgren and Gene Spencer. September 2014.
+pub161 Participatory Design in Academic Libraries, New Reports and Findings. Nancy Fried Foster, Editor. February 2014.
+pub160 Research Data Management: Principles, Practices, and Prospects. November 2013.
+pub159 Born Digital: Guidance for Donors, Dealers, and Archival Repositories by Gabriela Redwine, Megan Barnard, Kate Donovan, Erika Farr, Michael Forstrom, Will Hansen, Jeremy Leighton John, Nancy Kuhl, Seth Shaw, and Susan Thomas. October 2013.
+pub158 The Survival of American Silent Feature Films: 1912–1929 by David Pierce. September 2013.
+pub157 Images of Works of Art in Museum Collections: The Experience of Open Access by Kristin Kelly. June 2013.
+pub156 The Library of Congress National Recording Preservation Plan. December 2012.
+pub155 Participatory Design in Academic Libraries: Methods, Findings, and Implementations with introduction by Nancy Fried Foster. October 2012.
+pub154 The Problem of Data by Lori Jahnke, Andrew Asher, and Spencer D. C. Keralis, with an introduction by Charles Henry. August 2012.
+pub153 Core Infrastructure Considerations for Large Digital Libraries. July 2012.
+pub152 Linked Data for Libraries, Museums, and Archives: Survey and Workshop Report. October 2011.
+pub151 One Culture. Computationally Intensive Research in the Humanities and Social Sciences. June 2012
+pub150 "Rome Wasn't Digitized in a Day": Building a Cyberinfrastructure for Digital Classicists by Alison Babeu. August 2011.
+pub149 Digital Forensics and Born-Digital Content in Cultural Heritage Collections by Matthew G. Kirschenbaum, Richard Ovenden, Gabriela Redwine, with research assistance from Rachel Donahue. December 2010.
+pub148 The State of Recorded Sound Preservation in the United States: A National Legacy at Risk in the Digital Age. August 2010.
+pub147 The Idea of Order: Transforming Research Collections for 21st Century Scholarship. June 2010.
+pub146 Protection for Pre-1972 Sound Recordings under State Law and Its Impact on Use by Nonprofit Institutions: A 10-State Analysis. September 2009.
+pub145 Working Together or Apart: Promoting the Next Generation of Digital Scholarship. March 2009.
+pub144 Copyright and Related Issues Relevant to Digital Preservation and Dissemination of Unpublished Pre-1972 Sound Recordings by Libraries and Archives by June M. Besek. March 2009.
+pub143 A Survey of Digital Humanities Centers in the United States by Diane M. Zorich. November 2008.
+pub142 No Brief Candle: Reconceiving Research Libraries for the 21st Century. Part 1 of this report is also available in Arabic and Chinese. August 2008.
+pub141 Preservation in the Age of Large-Scale Digitization, A White Paper by Oya Y. Rieger. February 2008.
+pub140 Census of Institutional Repositories in the United States: MIRACLE Project Research Findings by Karen Markey, Soo Young Rieh, Beth St. Jean, Jihyun Kim, and Elizabeth Yakel. February 2007.
+pub139 Library Workflow Redesign: Six Case Studies by Marilyn Mitchell, editor. January 2007.
+pub138 E-Journal Archiving Metes and Bounds: A Survey of the Landscape by Anne R. Kenney, Richard Entlich, Peter B. Hirtle, Nancy Y. McGovern, and Ellie L. Buckley. September 2006.
+pub137 Capturing Analog Sound for Digital Preservation: Report of a Roundtable Discussion of Best Practices for Transferring Analog Discs and Tapes. March 2006.
+pub136 Shidhulai Swanirvar Sangstha: Bringing Information Technology to Rural Bangladesh by Boat by Arshad Mahmud. February 2006.
+pub135 Copyright Issues Relevant to Digital Preservation and Dissemination of Pre-1972 Commercial Sound Recordings by Libraries and Archives by June M. Besek. December 2005.
+pub134 Acquiring Copyright Permission to Digitize and Provide Open Access to Books by Denise Troll Covey. October 2005.
+pub133 Survey of Reissues of U.S. Recordings by Tim Brooks. August 2005.
+pub132 A Kaleidoscope of Digital American Literature by Martha L. Brogan with assistance from Daphnée Rentfrow. September 2005.
+pub131 Århus Public Libraries Embracing Diversity, Empowering Citizens in Denmark by Jack Jackson. July 2005.
+pub130 EVERGREEN Bringing Information Resources to Rural China by Geoffrey Z. Liu. July 2005.
+pub129 Library as Place: Rethinking Roles, Rethinking Space. February 2005.
+pub128 Survey of the State of Audio Collections in Academic Libraries by Abby Smith, David Randal Allen, and Karen Allen. August 2004.
+pub127 The Nonsubscription Side of Periodicals: Changes in Library Operations and Costs between Print and Electronic Formats by Roger C. Schonfeld, Donald W. King, Ann Okerson, Eileen Gifford Fenton. June 2004.
+pub126 Access in the Future Tense. April 2004.
+pub125 E-Powering the People: South Africa's Smart Cape Access Project by Susan Valentine. March 2004.
+pub124 Business Planning for Cultural Heritage Institutions by Liz Bishoff and Nancy Allen. January 2004.
+pub123 Reflecting on Leadership by Karin Wittenborg, Chris Ferguson, Michael A. Keller. December 2003.
+pub122 Libraries Designed for Learning by Scott Bennett. November 2003.
+pub120 Use and Users of Electronic Library Resources: An Overview and Analysis of Recent Research Studies by Carol Tenopir, with the assistance of Brenda Hitchcock and Ashley Pillow. August 2003.
+pub119 Emerging Visions for Access in the Twenty-first Century Library CONFERENCE PROCEEDINGS. August 2003.
+pub118 A Survey of Digital Cultural Heritage Initiatives and Their Sustainability Concerns by Diane M. Zorich. June 2003.
+pub117 Developing Print Repositories: Models for Shared Preservation and Access by Bernard F. Reilly, Jr. with research and analysis by Barbara DesRosiers, Center for Research Libraries. June 2003.
+pub116 National Digital Preservation Initiatives: An Overview of Developments in Australia, France, the Netherlands, and the United Kingdom and of Related International Activity by Neil Beagrie. April 2003.
+pub115 Library Buildings and the Building of a Collaborative Research Collection at the Tri-College Library Consortium by Judy Luther, Linda Bills, Amy McColl, Norm Medeiros, Amy Morrison, Eric Pumroy, and Peggy Seiden. April 2003.
+pub114 New-Model Scholarship: How Will It Survive? by Abby Smith. March 2003.
+pub113 Biblored, Colombia's Innovative Library Network by María Cristina Caballero. February 2003.
+pub112 Copyright Issues Relevant to the Creation of a Digital Archive: A Preliminary Assessment by June M. Besek. January 2003.
+pub111 The State of Preservation Programs in American College and Research Libraries: Building a Common Understanding and Action Agenda by Anne R. Kenney and Deirdre C. Stam. December 2002.
+pub110 Dimensions and Use of the Scholarly Information Environment: Introduction to a Data Set by Amy Friedlander. November 2002.
+pub109 The Digital Library: A Biography by Daniel Greenstein and Suzanne E. Thorin. Second edition December 2002, first edition September 2002.
+pub108 Diffuse Libraries: Emergent Roles for the Research Library in the Digital Age by Wendy Pradt Lougee. August 2002.
+pub107 The State of Digital Preservation: An International Perspective. CONFERENCE PROCEEDINGS. July 2002.
+pub106 Building a National Strategy for Preservation: Issues in Digital Media Archiving. April 2002.
+pub105 Usage and Usability Assessment: Library Practices and Concerns by Denise Troll Covey. January 2002.
+pub104 Scholarly Work in the Humanities and the Evolving Information Environment by William S. Brockman, Laura Neumann, Carole L. Palmer, Tonyia J. Tidline. December 2001.
+pub103 The Evidence in Hand: Report of the Task Force on the Artifact in Library Collections. November 2001.
+pub102 Proceedings of the 2000 Sino-United States Symposium and Workshop on Library and Information Science Education in the Digital Age. November 5-10, 2000; Wuhan, China. D. E. Perushek, Editor. 2001.
+pub101 Strategies for Building Digitized Collections by Abby Smith. September 2001.
+pub100 Building and Sustaining Digital Collections: Models for Libraries and Museums. August 2001.
+pub99 Selection and Presentation of Commercially Available Electronic Resources: Issues and Practices by Timothy D. Jewell. July 2001.
+pub98 Building Sustainable Collections of Free Third-Party Web Resources by Louis A. Pitschmann. June 2001.
+pub97 A Collaborative Approach to Collection Storage: The Five-College Library Depository by Willis E. Bridegam. June 2001.
+pub96 Folk Heritage Collections in Crisis. May 2001.
+pub95 Preservation Science Survey: An Overview of Recent Developments in Research on the Conservation of Selected Analog Library and Archival Materials by Henk J. Porck and René Teygeler. December 2000.
+pub94 White Paper on Electronic Journal Usage Statistics by Judy Luther. October 2000.
+pub93 Risk Management of Digital Information: A File Format Investigation by Gregory W. Lawrence, William R. Kehoe, Oya Y. Rieger, William H. Walters, and Anne R. Kenney. June 2000.
+pub92 Authenticity in a Digital Environment. May 2000.
+pub91 Systems of Knowledge Organization for Digital Libraries: Beyond Traditional Authority Files by Gail Hodge. April 2000.
+pub90 Managing Cultural Assets from a Business Perspective by Laura Price and Abby Smith. March 2000.
+pub89 Enduring Paradigm, New Opportunities: The Value of the Archival Perspective in the Digital Environment by Anne J. Gilliland-Swetland. February 2000.
+pub88 Collections, Content, and the Web. February 2000.
+pub87 The Making of America II Testbed Project: A Digital Library Service Model by Bernard J. Hurley, John Price-Wilkin, Merrilee Proffitt, Howard Besser. December 1999.
+pub86 Building Preservation Knowledge in Brazil by Ingrid Beck. November 1999.
+pub85 Innovative Use of Information Technology by Colleges. August 1999.
+pub84 Securing Our Dance Heritage: Issues in the Documentation and Preservation of Dance by Catherine J. Johnson and Allegra Fuller Snyder. July 1999.
+pub83 Preserving the Whole: A Two-Track Approach to Rescuing Social Science Data and Metadata by Ann Green, JoAnn Dionne, and Martin Dennis. June 1999.
+pub82 The Future of the Past: Preservation in American Research Libraries by Abby Smith. April 1999.
+pub81 Digitization for Scholarly Use: The Boswell Papers Project at The Beinecke Rare Book and Manuscript Library by Nicole Bouché. March 1999. $15
+pub80 Why Digitize? by Abby Smith. February 1999. $15
+pub79 Enabling Access in Digital Libraries: A Report on a Workshop on Access Management by Caroline Arms. February 1999. $15
+pub78 Scholarship, Instruction, and Libraries at the Turn of the Century. January 1999. $15
+pub77 Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation by Jeff Rothenberg. January 1999. $20
+pub76 Computerization of the Archivo General de Indias: Strategies and Results by Pedro González. September 1998. $20
+pub75 The Mirage of Continuity: Reconfiguring Academic Information Resources for the 21st Century. Edited by Brian L. Hawkins and Patricia Battin. September 1998. $25
+pub74 Selecting Research Collections for Digitization by Dan Hazen, Jeffrey Horrell, and Jan Merrill-Oldham. August 1998. $15
+pub73 Public Libraries, Communities, and Technology: Twelve Case Studies. November 1996. $15.00
+pub72 Library Systems: Current Developments and Future Directions by Leigh Watson Healy. May 1998. $25
+pub71 Digitizing Historical Pictorial Collections for the Internet by Stephen Ostrow. February 1998. $20
+pub70 Preservation and Archives in Vietnam by Judith Henchy. February 1998. $10
+pub69 Digitization as a Method of Preservation? by Hartmut Weber and Marianne Dörr. October 1997. $10.00
+pub68 SGML as a Framework for Digital Preservation and Access by James Coleman and Don Willis. July 1997. $20.00
+pub67 Digital Image Collections by Michael Ester. December 1996. $15.00
+pub65 Mass Deacidification by Henk Porck. October 1996. $15.00
+pub64 Preservation Challenges in a Changing Political Climate. A Report from Russia by Galina Kislovskaya. September 1996. $10.00
+pub63 Preserving Digital Information, Report of the Task Force on Archiving of Digital Information by Donald Waters and John Garrett. May 1996. $15.00
+pub62 Preservation in the Digital World by Paul Conway. March 1996.
+pub61 Digital Collections Inventory Report by Patricia A. McClung. February 1996. $20.00
+pub60 Preservation Activities in Canada by Karen Turko. February 1996. $10.00
+pub58 Difficult Choices by Gerald W. George. August 1995. $10.00
+pub57 Digital Imaging of Papyri by Roger S. Bagnall. September 1995. $10.00
+pub56 Oversize Color Images Project, 1994-1995 by Janet Gertz. August 1995. $10.00
+pub55 Preservation Priorities in Latin America by Dan C.Hazen. July 1995. $10.00
+pub54 Magnetic Tape Storage and Handling by John Van Bogart. June 1995. $10.00
+pub53 Digital Resolution Requirements for Replacing Text-Based Material: Methods for Benchmarking Image Quality by Anne R. Kenney and Stephen Chapman. April 1995. $10.00
+pub52 The European Register of Microform Masters—Supporting International Cooperation. May 1995.
+pub51 Preservation Activities in Bulgaria by Sonja Jordan. February 1995. $10.00
+pub50 The International Program and Its Global Mission. Introduction to Report Series. January 1995. $10.00
+pub48 The Commission on Preservation and Access Working Paper on the Future. February 1994. $5.00
+pub47 The Setup Phase of Project Open Book by Paul Conway and Shari Weaver. June 1994. $10.00
+pub46 Isoperms - An Environmental Management Tool by Donald Sebera. June 1994. $10.00
+pub45 Intellectual Preservation by Peter S. Graham. March 1994. $10.00
+pub44 The Digital Preservation Consortium by Donald Waters and Anne Kenney. March 1994.
+pub41 Preserving The Intellectual Heritage, A Report of The Bellagio Conference held at the Rockefeller Foundation Study and Conference Center, Bellagio, Italy. October 1993. $10.00
+pub40 Directory of Information Sources On Scientific Research Related to the Preservation of Sound Recordings, Still And Moving Images, and Magnetic Tape by Margaret Child. September 1993. $10.00
+pub39 The Evolving National Information Network by Douglas Van Houweling and Michael McGill. July 1993. $15.00
+pub38 Preservation Film by C. Lee Jones. July 1993.
+pub37 Opto-Electronic Storage by Hartmut Weber. February 1993. $5.00
+pub36 The Preservation of Archival Materials. Report of the Task Forces on Archival Selection. April 1993.
+pub34 The International Project, 1992 Update by Hans Rütimann. January 1993. $10.00
+pub32 A Hybrid Systems Approach to Preservation of Printed Materials by Don Willis. November 1992. $10.00
+pub29 Survey of Micropublishers by Erich Kesse. October 1992. $10.00
+pub28 Preservation of New Technology. A Report of the Technology Assessment Advisory Committee by Michael Lesk. October 1992. $5.00
+pub27 The Organizational Phase of Project Open Book by Don Waters and Shari Weaver. September 1992. $5.00
+pub26 Joint Study in Digital Preservation by Anne Kenney and Lynne Personius. September 1992. $10.00
+pub25 Electronic Technologies and Preservation by Don Waters. June 1992. $5.00
+pub24 Preserving the Illustrated Text. Report of the Joint Task Force on Text and Image. April 1992. $10.00
+pub23 Preservation and Access in China by Hans Rütimann. March 1992. $10.00
+pub22 Computerization Project of the Archivo General de Indias, Seville, Spain by Hans Rütimann and Stuart Lynn. March 1992. $10.00
+pub21 Jewelry History by Christine De Bow Klein. February 1992. $10.00
+pub20 Review and Assessment Committee Final Report. September 1991. $10.00
+pub18 Report on Preservation Planning Project. September 1991.
+pub17 Computer Images for Research, Teaching, and Publication in Art History and Related Disciplines by Charles S. Rhyne. January 1996. $5.00
+pub16 Working Together by Condict Gaye Stevenson. September 1991. $10.00
+pub15 Preserving the Literary Heritage. The Final Report of the Scholarly Advisory Committee on Modern Language and Literature by Hillis Miller. July 1991. $10.00
+pub11 Copyright and Preservation by Robert Oakley. September 1990. $15.00
+pub10 Preservation and Access Technology. A Structured Glossary of Technical Terms by Stuart Lynn. August 1990. $5.00
+pub9 Preservation Education Institute Final Report by Deanna Marcum. August 1990. $10.00
+pub8 Technical Considerations in Choosing Mass Deacidification Processes by Peter Sparks. May 1990. $10.00
+pub7 Scholarly Resources in Art History. August 1989. $10.00
+pub6 Directory of Information Sources on Scientific Research Related to the Preservation of Books, Paper, and Adhesives. March 1990. $10.00
+pub5 Image Formats for Preservation and Access. A Report of the Technology Assessment Advisory Committee by Michael Lesk. July 1990.
