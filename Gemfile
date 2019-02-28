@@ -1,5 +1,9 @@
 # A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "nokogiri"
-gem "chronic"
+gem 'chronic'
+gem 'colorize'
+gem 'html-proofer'
+gem 'jekyll'
+gem 'nokogiri'
+gem 'rake'

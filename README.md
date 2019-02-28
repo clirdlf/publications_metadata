@@ -13,4 +13,4 @@ This is a Ruby script and uses bundled gems.
 
 * Run the `parser.rb` script (`ruby parser.rb`)
 
-This will generate the appropriate CSV file to share with vendors.
+This will generate the appropriate CSV file in the KBART format to share with vendors.

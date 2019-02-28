@@ -1,0 +1,7 @@
+{
+  "short_name": "{{ site.title }}",
+  "name": "{{ site.description }}",
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}

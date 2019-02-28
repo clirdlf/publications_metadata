@@ -1,16 +1,12 @@
-<!DOCTYPE html>
-<html class="no-js" lang="en">
+---
+layout: default
+---
 
-<head>
-  <meta charset="utf-8">
-  <title>KBART file for CLIR Publications</title>
-</head>
+<h1>Index of clir.org/pubs/reports/</h1>
 
-<body>
-  <h1>Index of clir.org/pubs/reports/</h1>
+{% assign metadata_files = site.static_files | where: "metadata", true | reverse  %}
+{% for metadata in metadata_files %}
   <p>
-    <a href="CLIR_Global_AllTitles_2016-02-26.txt">All Titles</a>
+    <a href="{{ metadata.path }}">{{ metadata.basename }}</a>
   </p>
-</body>
-
-</html>
+{% endfor %}

@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
 # frozen_string_literal: true
+
 require 'open-uri'
 require 'net/http'
 require 'csv'
@@ -31,7 +31,7 @@ def find_isbn(string)
 end
 
 def add_header(writer)
-  writer << %w(
+  writer << %w[
     title_id
     publication_title
     print_identifier
@@ -39,7 +39,7 @@ def add_header(writer)
     date_monograph_published_online
     date_monograph_published_print
     title_url
-  )
+  ]
 end
 
 def main
@@ -56,7 +56,7 @@ def main
       abstract_url = find_redirect record.css('a/@href')
 
       title = record.css('a').text
-      editors = record.css('i, em').text.gsub(/, editor/,'').gsub(/by /, '')
+      editors = record.css('i, em').text.gsub(/, editor/, '').gsub(/by /, '')
       first_editor = editors.split(/(and|,)/).first
 
       date = /(January|February|March|April|May|June|July|August|September|October|November|December) \d{4}/.match(record.text)
